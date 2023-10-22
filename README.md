@@ -1,1 +1,2 @@
-# CC2_LabAct.3-CurfewScheduling
+# Ersatz CC2 Lab 3
+this shit iz nawt mine
